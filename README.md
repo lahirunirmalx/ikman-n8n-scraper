@@ -33,7 +33,7 @@ n8n workflow that scrapes [ikman.lk](https://ikman.lk) listings (e.g. cars, moto
 ### 3. Set your Google Sheet ID
 
 - In both **Google Sheets Read** and **Google Sheets Append** nodes, replace `YOUR_GOOGLE_SHEET_ID` with your spreadsheet ID.  
-  - Example: for `https://docs.google.com/spreadsheets/d/1i5Ox_Kj658IKX66R_dV7oP1r_y0ItcG_9-rfzkiRu98/edit`, the ID is `1i5Ox_Kj658IKX66R_dV7oP1r_y0ItcG_9-rfzkiRu98`.
+  - Example: for `https://docs.google.com/spreadsheets/d/1i5Ox_Kj658IKX66R_dV7oP1r_y0ItcG_9-----/edit`, the ID is `1i5Ox_Kj658IKX66R_dV7oP1r_y0ItcG_9-----`.
 - Pick the correct sheet (e.g. `Sheet1` / `gid=0`) in the “Sheet” dropdown if needed.
 
 ### 4. (Optional) Change category or base URL
